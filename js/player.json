@@ -1,0 +1,66 @@
+[ 
+    {
+        "name": "messi",
+        "description": "Ce joueur de football argentin est considéré comme l'un des meilleurs joueurs de tous les temps. Il est connu pour son incroyable agilité, sa vitesse, sa capacité à marquer des buts et sa créativité. Son numéro de maillot est le 10."
+    },
+    {
+        "name": "ronaldo",
+        "description": "Ce joueur de football portugais est considéré comme l'un des meilleurs joueurs de tous les temps. Il est connu pour sa vitesse, sa force physique et sa capacité à marquer des buts avec précision. Son numéro de maillot est le 7."
+    },
+    {
+        "name": "neymar",
+        "description": "Ce joueur de football brésilien est connu pour ses dribbles incroyables, sa vitesse et sa créativité. Il est considéré comme l'un des meilleurs joueurs de sa génération. Son numéro de maillot est le 10."
+    },
+    {
+        "name": "mbappé",
+        "description": "Ce joueur de football français est connu pour sa vitesse, sa capacité à marquer des buts et sa créativité sur le terrain. Il est considéré comme l'un des meilleurs jeunes joueurs du monde. Son numéro de maillot est le 7."
+    },
+    {
+        "name": "salah",
+        "description": "Ce joueur de football égyptien qui joue pour Liverpool FC est connu pour sa vitesse, sa technique et sa capacité à marquer des buts. Son numéro de maillot est le 11."
+    },
+    {
+        "name": "ramos",
+        "description": "Ce joueur de football espagnol qui joue pour le Real Madrid et l'équipe nationale espagnole est connu pour sa capacité à marquer des buts importants et pour son leadership sur le terrain. Son numéro de maillot est le 4."
+    },
+    {
+        "name": "debruyne",
+        "description": "Ce joueur de football belge qui joue pour Manchester City est connu pour sa créativité, sa vision de jeu et sa capacité à marquer des buts et à faire des passes décisives. Son numéro de maillot est le 17."
+    }, 
+    {
+        "name": "lewandowski",
+        "description": "Ce joueur de football polonais qui joue pour le Bayern Munich est connu pour sa force physique, sa capacité à marquer des buts et à jouer en équipe. Il est considéré comme l'un des meilleurs attaquants du monde. Son numéro de maillot est le 9."
+    },
+    {
+        "name": "vandijk",
+        "description": "Ce joueur de football néerlandais qui joue pour Liverpool FC et l'équipe nationale des Pays-Bas est connu pour sa force physique, sa capacité à intercepter les passes et à marquer des buts importants. Son numéro de maillot est le 4."
+    },
+    {
+        "name": "haaland",
+        "description": "Ce joueur de football norvégien qui joue pour le Borussia Dortmund est connu pour sa vitesse, sa puissance et sa capacité à marquer des buts de toutes les positions. Son numéro de maillot est le 9."
+    },
+    {
+        "name": "kroos",
+        "description": "Ce joueur de football allemand qui joue pour le Real Madrid et l'équipe nationale allemande est connu pour sa vision de jeu, sa créativité et sa capacité à faire des passes précises. Son numéro de maillot est le 8."
+    },
+    {
+        "name": "donnarumma",
+        "description": "Ce joueur de football italien qui joue pour le Paris Saint-Germain et l'équipe nationale italienne est connu pour ses réflexes rapides, sa capacité à anticiper les tirs et à effectuer des arrêts cruciaux. Son numéro de maillot est le 50."
+    },
+    {
+        "name": "kanté",
+        "description": "Ce joueur de football français qui joue pour Chelsea FC et l'équipe nationale française est connu pour son énergie incroyable, sa capacité à récupérer le ballon et à aider son équipe à attaquer. Son numéro de maillot est le 7."
+    },
+    {
+        "name": "mané",
+        "description": "Ce joueur de football sénégalais qui joue pour Liverpool FC est connu pour sa vitesse, sa technique et sa capacité à marquer des buts importants. Son numéro de maillot est le 10."
+    },
+    {
+        "name": "dybala",
+        "description": "Ce joueur de football argentin qui joue pour la Juventus est connu pour sa créativité, sa technique et sa capacité à marquer des buts de toutes les positions. Son numéro de maillot est le 10."
+    },
+    {
+        "name": "fernandes",
+        "description": "Ce joueur de football portugais qui joue pour Manchester United est connu pour sa capacité à marquer des buts, à faire des passes décisives et à aider son équipe à attaquer. Son numéro de maillot est le 18."
+    }
+]
